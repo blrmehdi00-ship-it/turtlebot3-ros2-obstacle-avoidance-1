@@ -1,0 +1,15 @@
+<package format="3">
+  <name>turtlebot3_obstacle_avoidance</name>
+  <version>1.0.0</version>
+  <description>ROS2 TurtleBot3 obstacle avoidance (Gazebo)</description>
+
+  <maintainer email="student@todo.com">student</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+  <exec_depend>turtlebot3_gazebo</exec_depend>
+
+</package>
